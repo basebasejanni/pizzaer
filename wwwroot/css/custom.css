@@ -1,0 +1,90 @@
+﻿.nav-cus {
+    background-color: #BB3E00 !important;
+}
+
+.button-custom {
+    background-color: #5F8D37 !important;
+    color: #FFFFFF !important;
+}
+
+
+body {
+      background-color: #F7AD45 !important; 
+ 
+}
+
+.footer {
+    background-color: #BB3E00 !important;
+}
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Container needed to position the button. Adjust the width as needed */
+.imageone {
+    position: relative;
+    width: 100%;
+}
+
+  /*   Make the image responsive */
+   .imageone img {
+        width: 100%;
+        height: auto;
+    } 
+
+    /* Style the button and place it in the middle of the container/image */
+    .imageone .btn {
+        position: absolute; 
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: #5F8D37;
+        color: white;
+        font-size: 16px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+        .imageone .btn:hover {
+    opacity: 0.6;
+        }
+
+/*LunchOffer Modal css*/
+.modal-content {
+    height: 300px;
+    width: 600px;
+    background-color: #5F8D37;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFF1D7;
+}
+
+    .modal-content .btn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: #FFF1D7;
+        color: #5F8D37;
+        font-size: 16px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+        .modal-content .btn:hover {
+            opacity: 0.6;
+        }
+
+}
+
+
+
+

@@ -1,0 +1,113 @@
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\appsettings.json
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.exe
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.deps.json
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.runtimeconfig.json
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.runtimeconfig.dev.json
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ref\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.pdb
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.Views.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Pizza Projektet - cafe luccas.Views.pdb
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.csproj.AssemblyReference.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.AssemblyInfoInputs.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.AssemblyInfo.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.csproj.CoreCompileInputs.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorAssemblyInfo.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorAssemblyInfo.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\staticwebassets\Pizza Projektet - cafe luccas.StaticWebAssets.Manifest.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\staticwebassets\Pizza Projektet - cafe luccas.StaticWebAssets.xml
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\scopedcss\bundle\Pizza Projektet - cafe luccas.styles.css
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.TagHelpers.input.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.TagHelpers.output.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorCoreGenerate.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Forms\Menu.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorTargetAssemblyInfo.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.RazorTargetAssemblyInfo.cs
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.Views.pdb
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\ref\Pizza Projektet - cafe luccas.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.pdb
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.genruntimeconfig.cache
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\obj\Debug\net5.0\Pizza Projektet - cafe luccas.csproj.CopyComplete
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Abp.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Abp.Web.Common.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Castle.Core.AsyncInterceptor.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Castle.Facilities.Logging.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Castle.Windsor.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Nito.AsyncEx.Context.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Nito.AsyncEx.Coordination.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Nito.AsyncEx.Tasks.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Nito.Collections.Deque.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\Nito.Disposables.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\NUglify.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\TimeZoneConverter.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kmg513\Desktop\pizzagit\Pizza Projektet - cafe luccas\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll

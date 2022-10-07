@@ -1,0 +1,42 @@
+﻿@page
+@model Pizza_Projektet___cafe_luccas.Pages.Forms.MenuModel
+@{
+}
+<!--Headline for menu-->
+<h1> Menukort </h1>
+<div =" search ">
+    <!-- Searchform-->
+    <form method="post">
+
+        <!-- Ask the user for topping one wants to seach for-->
+
+
+
+        <div class="input-group mb-3">
+            <span class="input-group-text">Topping</span>
+            <input type="text" asp-for="Topping " class="form-control" placeholder="Fyld">
+        </div>
+
+
+
+
+        <!-- Ask the user for pizza name one wants to seach for -->
+
+
+        <div class="input-group mb-3">
+            <span class="input-group-text">Navn</span>
+            <input type="text" asp-for="Name" class="form-control" placeholder="Navn på pizza">
+        </div>
+
+        <!-- ask the user if the user want a spicy pizza, and how spicy-->
+   
+
+        <div class="input-group mb-3">
+            <span class="input-group-text">Stærkhedsgrad</span>
+            <input type="text" asp-for="Spice" class="form-control" placeholder="Stærkhedsgrad">
+        </div>
+
+
+        <button class="button-custom" type="submit">Søg</button>
+    </form>
+</div>
